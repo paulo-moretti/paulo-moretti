@@ -39,7 +39,3 @@ Para mais conteúdos sobre programação e para acompanhar meu trabalho, me siga
   
 </div>
 <br>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
