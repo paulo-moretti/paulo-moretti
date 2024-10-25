@@ -2,7 +2,6 @@
 
 👋 Olá, eu sou o Paulo Eduardo Moretti! desenvolvedor full stack apaixonado por programação e tecnologia. Sempre estou em busca de novos desafios e aprendizados para expandir meus conhecimentos. Aqui você encontrará projetos em que estou trabalhando e contribuições para a comunidade.
 
-
 ## Tecnologias que eu utilizo:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -16,11 +15,12 @@
 </div>
 <br>
 
-
 ## Um pouco mais sobre meu perfil 🚀 &nbsp;
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div> 
+  <a href="https://github.com/paulo-moretti">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-moretti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-moretti&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a> 
 </div>
 
 ## Vamos nos conectar!
@@ -39,3 +39,7 @@ Para mais conteúdos sobre programação e para acompanhar meu trabalho, me siga
   
 </div>
 <br>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
