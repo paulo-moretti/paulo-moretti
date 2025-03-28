@@ -16,14 +16,6 @@
 </div>
 <br>
 
-## Um pouco mais sobre meu perfil 🚀 &nbsp;
-<div> 
-  <a href="https://github.com/paulo-moretti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-moretti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-moretti&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a> 
-</div>
-
 ## Vamos nos conectar!
 Para mais conteúdos sobre programação e para acompanhar meu trabalho, me siga nas redes sociais abaixo:
 
