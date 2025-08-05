@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
-👋 Olá, eu sou o Paulo Eduardo Moretti! desenvolvedor full stack apaixonado por programação e tecnologia. Sempre estou em busca de novos desafios e aprendizados para expandir meus conhecimentos. Aqui você encontrará projetos em que estou trabalhando e contribuições para a comunidade.
+👋 Olá, eu sou o Paulo Eduardo Moretti! desenvolvedor front end apaixonado por programação e tecnologia. Sempre estou em busca de novos desafios e aprendizados para expandir meus conhecimentos. Aqui você encontrará projetos em que estou trabalhando e contribuições para a comunidade.
 
 ## Tecnologias que eu utilizo:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
