@@ -16,7 +16,10 @@
 <br>
 
 ## Vamos nos conectar!
-Para mais conteúdos sobre programação e para acompanhar meu trabalho, me siga nas redes sociais abaixo:
+Para mais conteúdos sobre programação e para acompanhar meu trabalho, me siga nas redes sociais abaixo ou acesse meu portfolio:
+
+Você pode acessar a versão publicada aqui:  
+👉 [Acessar Portfólio](https://paulo-moretti.github.io/portfolio/)
 
 <div> 
   <a href="https://www.instagram.com/paulo_eduardo_moretti/profilecard/?igsh=MTYzcHgzNWl4cGdybQ==" target="_blank">
