@@ -39,10 +39,19 @@ https://github.com/paulo-moretti/Ghost_of_Gov
 
 ---
 
-## Vamos nos conectar
-- LinkedIn: https://www.linkedin.com/in/paulo-eduardo-moretti  
-- Email: pauloeduardo.sm20@gmail.com  
-- Instagram: https://www.instagram.com/paulo_eduardo_moretti  
+## 🔗 Vamos nos conectar
+
+<div>
+  <a href="https://www.linkedin.com/in/paulo-eduardo-moretti" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:pauloeduardo.sm20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/paulo_eduardo_moretti" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
 
 ---
-Este GitHub reflete minha evolução técnica rumo a **DevOps / SRE**.
+📌 *Este GitHub reflete minha evolução técnica rumo a DevOps / SRE.*
