@@ -1,6 +1,6 @@
 ## Olá, eu sou o Paulo Moretti
 
-Sou estudante de Ciência da Computação e estagiário de TI com foco em
+Sou estudante de Ciência da Computação com foco em
 **automação de processos, infraestrutura e operações**, em transição para a área de
 **DevOps / SRE**.
 
